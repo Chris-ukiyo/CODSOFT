@@ -1,8 +1,8 @@
-Titanic Survival Prediction
+# Titanic Survival Prediction
 
 This project predicts whether a Titanic passenger survived based on features like age, gender, ticket class, fare, and cabin. It uses the Titanic dataset from Kaggle, showcasing fundamental machine learning concepts.
 
-Table of Contents
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data Description](#data-description)
@@ -10,7 +10,7 @@ Table of Contents
 - [Results](#results)
 - [License](#license)
 
- Installation
+## Installation
 ```bash
 pip install -r requirements.txt
 ```
@@ -43,7 +43,3 @@ The dataset includes:
 
 ## Results
 The model achieved an accuracy of XX% on the test dataset. Visualizations are included to showcase feature importance and model performance.
-
-## License
-This project is licensed under the MIT License.
-
