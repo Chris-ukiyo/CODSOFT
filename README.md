@@ -42,4 +42,4 @@ The dataset includes:
 - Logistic Regression and Random Forest classification
 
 ## Results
-The model achieved an accuracy of XX% on the test dataset. Visualizations are included to showcase feature importance and model performance.
+The model achieved an accuracy of 81% on the test dataset. Visualizations are included to showcase feature importance and model performance.
