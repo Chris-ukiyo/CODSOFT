@@ -1,7 +1,3 @@
-Here's a sample **README** for your **Sales Prediction using Python** project. This README outlines the purpose of the project, the steps involved, and instructions for running the code.
-
----
-
 # Sales Prediction Using Python
 
 This project involves predicting sales based on advertising spending on different platforms (TV, Radio, and Newspaper) using a machine learning model built in Python. The goal is to provide insights into how advertising expenditures can be optimized to maximize sales. The machine learning model used for this project is **Linear Regression**.
@@ -80,9 +76,4 @@ The following metrics are used to evaluate the performance of the Linear Regress
 - **Pairplot**: Shows pairwise relationships between the features and the target variable.
 - **Prediction Plot**: Plots the actual vs. predicted sales values to show how well the model fits.
 
-## License
-This project is open-source and free to use. Modify it as needed for your use case.
 
----
-
-Feel free to customize this README to suit your project more closely. Let me know if you need further additions or changes!
