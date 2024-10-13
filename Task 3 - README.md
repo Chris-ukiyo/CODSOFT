@@ -27,10 +27,9 @@ The dataset has 200 rows, with no missing values.
 
 ## Project Structure
 ```bash
-├── advertising.csv           # Dataset containing advertising and sales data
 ├── sales_prediction.py       # Python script with the code to train and evaluate the model
 ├── README.md                 # Project documentation (this file)
-└── requirements.txt          # Python dependencies for the project
+
 ```
 
 ## Requirements
